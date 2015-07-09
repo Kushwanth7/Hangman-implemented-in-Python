@@ -8,6 +8,6 @@
 
 —————Program—————
 #File -> game.py: Contains the actual implementation of the Hangman game
-#File -> words.txt: Contains a list of more than 55,000 words
+#File -> words.txt: Contains a list of more than 2 lakh words
 
 Note - For the program to run correctly, the file words.txt should be present in the same directory as the file game.py 
